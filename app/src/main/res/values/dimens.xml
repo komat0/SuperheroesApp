@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="outside_row">16dp</dimen>
+    <dimen name="card_info_height">72dp</dimen>
+    <dimen name="card_corner_radius">16dp</dimen>
+    <dimen name="image_corner_radius">8dp</dimen>
+    <dimen name="elevation">2dp</dimen>
+    <dimen name="card_padding_in_list_vertical">8dp</dimen>
+    <dimen name="card_padding_in_list_horizontal">16dp</dimen>
+
+
+</resources>
